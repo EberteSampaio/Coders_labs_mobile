@@ -1,4 +1,8 @@
 import 'package:flutter/material.dart';
+import 'src/view/ticket_list_page.dart';
+import 'src/view/about_page.dart';
+import 'src/view/create_ticket_page.dart';
+import 'src/view/profile_page.dart';
 
 void main() {
   runApp(MyApp());
@@ -80,7 +84,7 @@ class _HomePageState extends State<HomePage> {
     );
   }
 }
-
+/*
 class CreateTicketPage extends StatelessWidget {
   final TextEditingController titleController = TextEditingController();
   final TextEditingController descriptionController = TextEditingController();
@@ -133,7 +137,9 @@ class CreateTicketPage extends StatelessWidget {
     );
   }
 }
+*/
 
+/*
 class TicketListPage extends StatelessWidget {
   final List<Map<String, String>> tickets = [
     {
@@ -173,7 +179,8 @@ class TicketListPage extends StatelessWidget {
     );
   }
 }
-
+*/
+/*
 class TicketDetailPage extends StatelessWidget {
   final Map<String, String> ticket;
 
@@ -211,7 +218,8 @@ class TicketDetailPage extends StatelessWidget {
     );
   }
 }
-
+*/
+/*
 class ProfilePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -234,7 +242,8 @@ class ProfilePage extends StatelessWidget {
     );
   }
 }
-
+*/
+/*
 class AboutPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -265,3 +274,4 @@ class AboutPage extends StatelessWidget {
     );
   }
 }
+*/
