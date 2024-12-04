@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "601428947297",
+    "firebase_url": "https://help-desk-coders-default-rtdb.firebaseio.com",
+    "project_id": "help-desk-coders",
+    "storage_bucket": "help-desk-coders.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601428947297:android:3d871904e65e0f24d89520",
+        "android_client_info": {
+          "package_name": "com.coderslabs.helpdesk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3PH5kno4ySn3kfkwm1psWVG03ZKDOtXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601428947297:android:97a4a733820fa548d89520",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3PH5kno4ySn3kfkwm1psWVG03ZKDOtXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601428947297:android:ff8b2a05547aea7bd89520",
+        "android_client_info": {
+          "package_name": "com.example.hp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3PH5kno4ySn3kfkwm1psWVG03ZKDOtXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
