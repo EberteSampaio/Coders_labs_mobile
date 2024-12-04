@@ -21,9 +21,6 @@ O **Helpdesk App** é um aplicativo de gerenciamento de suporte técnico, desenv
 - Mostra o perfil básico do usuário, com ícone e nome.
 - Pode ser expandido para permitir funcionalidades como edição do perfil no futuro.
 
-### 5. Sobre o Aplicativo
-- Exibe informações sobre o aplicativo, como a versão, termos de uso, política de privacidade e formas de contato com o suporte.
-
 ## Interface do Usuário
 
 O aplicativo utiliza uma barra de navegação inferior com as seguintes abas:
@@ -35,13 +32,13 @@ O aplicativo utiliza uma barra de navegação inferior com as seguintes abas:
 ## Tecnologias Utilizadas
 - **Flutter**: Framework para o desenvolvimento de interfaces de aplicativos móveis.
 - **Dart**: Linguagem de programação utilizada pelo Flutter.
-- **Gerenciamento de Estado**: Utiliza uma lista local para armazenar tickets (pode ser facilmente expandido para armazenamento em banco de dados).
 
 ## Fluxo do Usuário
 1. **Cadastrar Ticket**: O usuário pode ir à aba "Cadastrar", preencher o título e a descrição, e registrar o ticket.
 2. **Listar Tickets**: Na aba "Listar", o usuário visualiza todos os tickets cadastrados e pode selecionar um ticket para visualizar seus detalhes.
-3. **Visualizar Perfil**: Na aba "Perfil", o usuário pode visualizar suas informações básicas.
-4. **Ver Informações do App**: Acessar a aba "Configurações/Sobre" para ver informações sobre o aplicativo e suas políticas.
+3. **Alterar dados do Tickets**: Ao clicar no ticket, o usuário pode alterar dados e deletar o ticket.
+4. **Adicionar Follow-ups**: Usuários podem interagir entre si via follow-up.
+5. **Visualizar Perfil**: Na aba "Perfil", o usuário pode visualizar suas informações básicas.
 
 ## Como Executar o Projeto
 
